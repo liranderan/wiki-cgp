@@ -2,5 +2,5 @@
 sidebar_position: 2
 ---
 
-#### 儿童医院
+#### BC
 http://www.bcchildrens.ca/
