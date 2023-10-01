@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 联邦政府
-Home - Canada.ca
+[Home - Canada.ca](https://www.canada.ca/en.html)
 
 IRCC 移民与公民身份
 https://www.canada.ca/en/services/immigration-citizenship.html
