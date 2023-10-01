@@ -2,42 +2,26 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+联邦政府
+Home - Canada.ca
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+IRCC 移民与公民身份
+https://www.canada.ca/en/services/immigration-citizenship.html
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+CRA 加拿大税务局
+https://www.canada.ca/en/revenue-agency.html
 
-## Create your first React Page
+Royal Canadian Mounted Police加拿大皇家骑警
+https://www.rcmp-grc.gc.ca/en
 
-Create a file at `src/pages/my-react-page.js`:
+YVR
+https://www.yvr.ca/en/passengers
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+Vancouver
+https://vancouver.ca/
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+Richmond
+https://www.richmond.ca/home.htm
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Burnaby
+https://www.burnaby.ca/Home.html
