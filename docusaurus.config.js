@@ -9,7 +9,6 @@ const config = {
   title: 'City Guide Pro',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-
   // Set the production url of your site here
   url: 'https://calgary-3sy.pages.dev/',
   // Set the /<baseUrl>/ pathname under which your site is served
