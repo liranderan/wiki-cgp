@@ -97,7 +97,6 @@ const config = {
             ],
           },
           {
-            {
             title: 'Docs',
             items: [
               {
@@ -106,6 +105,7 @@ const config = {
               },
             ],
           },
+          {
             title: 'Community',
             items: [
               {
@@ -124,6 +124,7 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/cityguidepro',
               },
+              },
             ],
           },
           {
@@ -132,10 +133,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/cityguidepro',
               },
             ],
           },
