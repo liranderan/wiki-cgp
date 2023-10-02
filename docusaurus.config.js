@@ -90,13 +90,23 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
+                label: 'About "City Guide"',
+                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+              },
+              {
+                label: 'Contact us',
+                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+              },{
+                label: 'Terms of Service',
+                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+              },{
+                label: 'Privacy Policy',
+                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
             ],
           },
           {
-            title: 'Docs',
+            title: 'Wiki',
             items: [
               {
                 label: 'Docs',
