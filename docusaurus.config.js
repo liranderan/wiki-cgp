@@ -91,12 +91,21 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/intro',
               },
             ],
           },
           {
+            {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Docs',
+                to: '/docs/intro',
+              },
+            ],
+          },
             title: 'Community',
             items: [
               {
@@ -110,6 +119,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/cityguidepro',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/cityguidepro',
               },
             ],
           },
@@ -127,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} © 2023 cityguidepro, inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} cityguidepro, inc.`,
       },
       prism: {
         theme: lightCodeTheme,
