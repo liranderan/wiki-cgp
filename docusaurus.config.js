@@ -86,11 +86,33 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+            {
+            title: 'CGP',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+            ],
+          },
           {
+            title: 'Wiki',
+            items: [
+              {
+                label: 'Docs',
+                to: '/docs/intro',
+              },
+               {
+                label: 'Blog',
+                to: '/blog',
+              },
+            ],
+          },
+                    {
             title: 'Docs',
             items: [
               {
-                label: 'About "City Guide"',
+                label: 'About City Guide',
                 href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
               {
@@ -102,15 +124,6 @@ const config = {
               },{
                 label: 'Privacy Policy',
                 href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
-              },
-            ],
-          },
-          {
-            title: 'Wiki',
-            items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
               },
             ],
           },
@@ -132,15 +145,6 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/cityguidepro',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
               },
             ],
           },
