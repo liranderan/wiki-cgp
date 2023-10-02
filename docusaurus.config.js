@@ -27,8 +27,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['cn'],
+    defaultLocale: 'zh-Hans',
+    locales: ['en'],
   },
 
   presets: [
@@ -90,8 +90,8 @@ const config = {
             title: 'CGP',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Home',
+                to: 'https://cityguidepro.com/',
               },
             ],
           },
@@ -113,17 +113,17 @@ const config = {
             items: [
               {
                 label: 'About City Guide',
-                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
               {
                 label: 'Contact us',
-                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },{
                 label: 'Terms of Service',
-                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },{
                 label: 'Privacy Policy',
-                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
             ],
           },
@@ -136,15 +136,15 @@ const config = {
               },
               {
                 label: 'Xiaohongshu',
-                href: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/cityguidepro',
+                to: 'https://twitter.com/cityguidepro',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/cityguidepro',
+                to: 'https://github.com/cityguidepro',
               },
             ],
           },
