@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cityguidepro', // Usually your GitHub org/user name.
-  projectName: 'calgary', // Usually your repo name.
+  projectName: 'wiki-cgp', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['cn'],
   },
 
   presets: [
@@ -122,7 +122,6 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/cityguidepro',
-              },
               },
             ],
           },
