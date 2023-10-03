@@ -3,47 +3,9 @@ sidebar_position: 1
 ---
 
 # Manage Docs Versions
-
-Docusaurus can manage multiple versions of your docs.
-
-## Create a docs version
-
-Release a version 1.0 of your project:
-
-```bash
-npm run docusaurus docs:version 1.0
-```
-
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
+##### 加拿大 BC 省驾照笔试模拟题（2023版）
+https://passl.ca/
+![image](https://res.craft.do/user/full/f5da3755-75e7-0201-5b7d-2fee3e59bda0/doc/AD9BC932-74DA-4C1F-8FA7-AE9F53E80CDD/A37DDF64-F27E-4A31-96DE-682D14C4DD5F_2/ziefnZnYUZBZu5RiBJUgyTq1g6s31jAWJ1bXYv1qPAIz/BC2023.jpeg)
 
 ![Docs Version Dropdown](./img/docsVersionDropdown.png)
 
