@@ -25,6 +25,11 @@ const sidebars = {
       type: 'category',
       label: 'Tutorial',
       items: ['link/create-a-document'],
+    },  
+    {
+      type: 'Pro',
+      label: 'Pro list',
+      items: ['link/contractor'],
     },
   ],
    */
