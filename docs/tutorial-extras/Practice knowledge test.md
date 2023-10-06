@@ -1,6 +1,18 @@
 ---
 sidebar_position: 3
----
+--- 
+:::tip 
+
+> Official documentation.
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
 ### ICBC Practice Knowledge Test  
 Prepare to get your L
 https://practicetest.icbc.com/#/    
