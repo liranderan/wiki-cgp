@@ -14,7 +14,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cityguidepro', // Usually your GitHub org/user name.
@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['en'],
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -55,6 +55,10 @@ const config = {
         },
       }),
     ],
+  ],
+
+  plugins: [
+    'docusaurus-plugin-auto-sidebars'
   ],
 
   themeConfig:
@@ -159,9 +163,3 @@ const config = {
 };
 
 module.exports = config;
-module.exports = {
-  // ...
-  plugins: [
-    'docusaurus-plugin-auto-sidebars'
-  ],
-}
