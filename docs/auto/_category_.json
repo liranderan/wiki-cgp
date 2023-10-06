@@ -1,7 +1,8 @@
 {
-  "label": "auto",
-  "position": 3,
+  "label": "link",
+  "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "常用导航"
   }
 }
