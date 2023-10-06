@@ -19,7 +19,7 @@ module.exports = {
     },
     {
         "type": "category",
-        "label": "tutorial-basics",
+        "label": "link",
         "items": [
             "tutorial-basics/BC",
             "tutorial-basics/Bank",
@@ -31,14 +31,14 @@ module.exports = {
     },
     {
         "type": "category",
-        "label": "tutorial-extras",
+        "label": "auto",
         "items": [
-            "tutorial-extras/Driver License in B.C",
-            "tutorial-extras/Driver License",
-            "tutorial-extras/Practice knowledge test",
+            "auto/Driver License in B.C",
+            "auto/Driver License",
+            "auto/Practice knowledge test",
             {
                 "type": "category",
-                "label": "img",
+                "label": "auto/img",
                 "items": []
             }
         ]
