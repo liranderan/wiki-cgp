@@ -159,3 +159,9 @@ const config = {
 };
 
 module.exports = config;
+module.exports = {
+  // ...
+  plugins: [
+    'docusaurus-plugin-auto-sidebars'
+  ],
+}
