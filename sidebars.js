@@ -18,6 +18,7 @@ const sidebars = {
 
   // But you can create a sidebar manually
   /*
+  module.exports = {
   tutorialSidebar: [
     'intro',
     'hello',
@@ -26,6 +27,20 @@ const sidebars = {
       label: 'Tutorial',
       items: ['link/create-a-document'],
     },  
+  ],
+   */
+};
+
+module.exports = sidebars;
+  tutorialSidebar: [
+    'intro',
+    'hello',
+    {
+      type: 'category',
+      label: 'Tutorial',
+      items: ['link/create-a-document'],
+    },  
+ },  
     ProlSidebar: [
     'intro',
     'hello',
@@ -34,8 +49,3 @@ const sidebars = {
       label: 'Pro list',
       items: ['link/contractor'],
     },
-  ],
-   */
-};
-
-module.exports = sidebars;
