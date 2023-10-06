@@ -26,6 +26,9 @@ const sidebars = {
       label: 'Tutorial',
       items: ['link/create-a-document'],
     },  
+    ProlSidebar: [
+    'intro',
+    'hello',
     {
       type: 'Pro',
       label: 'Pro list',
