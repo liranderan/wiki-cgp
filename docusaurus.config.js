@@ -136,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                to: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
               {
                 label: 'Xiaohongshu',
@@ -144,7 +144,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                to: 'https://twitter.com/cityguidepro',
+                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
               {
                 label: 'GitHub',
