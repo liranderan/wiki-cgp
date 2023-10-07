@@ -8,7 +8,28 @@ module.exports = {
             "application/shop"
         ]
     },
+    {
+        "type": "category",
+        "label": "auto",
+        "items": [
+            "auto/Driver License in B.C",
+            "auto/Driver License",
+            "auto/Practice knowledge test"
+        ]
+    },
     "intro",
+    {
+        "type": "category",
+        "label": "link",
+        "items": [
+            "link/BC",
+            "link/Bank",
+            "link/CA",
+            "link/CN",
+            "link/Metro Vancouver",
+            "link/Real Estate"
+        ]
+    },
     {
         "type": "category",
         "label": "professionals",
@@ -19,26 +40,11 @@ module.exports = {
     },
     {
         "type": "category",
-        "label": "link",
+        "label": "tutorial-extras",
         "items": [
-            "tutorial-basics/BC",
-            "tutorial-basics/Bank",
-            "tutorial-basics/CA",
-            "tutorial-basics/CN",
-            "tutorial-basics/Metro Vancouver",
-            "tutorial-basics/Real Estate"
-        ]
-    },
-    {
-        "type": "category",
-        "label": "auto",
-        "items": [
-            "auto/Driver License in B.C",
-            "auto/Driver License",
-            "auto/Practice knowledge test",
             {
                 "type": "category",
-                "label": "auto/img",
+                "label": "img",
                 "items": []
             }
         ]
