@@ -38,31 +38,3 @@ export default function Home(): JSX.Element {
     </Layout>
   );
 }
-export default function Resources() {
-  const title = '网址导航'
-  const description = '整合日常开发常用，推荐的网站导航页'
-
-  return (
-    <HtmlClassNameProvider
-      className={clsx(
-        ThemeClassNames.wrapper.blogPages,
-        ThemeClassNames.page.blogTagsListPage,
-      )}
-    >
-      <PageMetadata title={title} description={description} />
-      <Layout>
-        <div className="container margin-top--md">
-          <div className="row">
-            <aside className={clsx('col col--2')}>
-              <CategorySidebar />
-            </aside>
-            <main className="col col--10">
-              <CategoryList />
-            </main>
-          </div>
-        </div>
-        <BackToTopButton />
-      </Layout>
-    </HtmlClassNameProvider>
-  )
-}
