@@ -135,10 +135,6 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
-              },
-              {
                 label: 'Xiaohongshu',
                 to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
