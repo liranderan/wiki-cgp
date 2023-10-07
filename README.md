@@ -1,41 +1,22 @@
-# Website
+# About 
+CityGuidePro是什么?  
+City+Guide+Pro  
+城市、指南和专业的人
+我们希望帮助在加拿大的华人更好的生活与工作  
+通过建立平台,帮助专业的人建立品牌、接触更多客户  
+连接专业的人与需要帮助的人们  
+更好地分享知识和经验,帮助更多的人
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+# Category
+### Link
+docs / intro  
+docs / link / CA  
+docs / link / BC  
+docs / link / Metro Vancouver  
+docs / link / CN  
+docs / link / Real Estate  
+docs / link / Bank  
+### Auto  
+docs / auto / Driver License in B.C  
+docs / auto / Driver License  
+docs / auto / Practice knowledge test
