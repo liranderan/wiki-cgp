@@ -79,7 +79,8 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/resource', label: 'Resource', position: 'left' },
           {
             href: 'https://github.com/cityguidepro/wiki-cgp',
             label: 'GitHub',
@@ -90,7 +91,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-            {
+          {
             title: 'CGP',
             items: [
               {
@@ -106,13 +107,13 @@ const config = {
                 label: 'Docs',
                 to: '/docs/intro',
               },
-               {
+              {
                 label: 'Blog',
                 to: '/blog',
               },
             ],
           },
-                    {
+          {
             title: 'Docs',
             items: [
               {
@@ -122,10 +123,10 @@ const config = {
               {
                 label: 'Contact us',
                 to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
-              },{
+              }, {
                 label: 'Terms of Service',
                 to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
-              },{
+              }, {
                 label: 'Privacy Policy',
                 to: 'https://www.xiaohongshu.com/user/profile/584e45dd6a6a693c6733d67e',
               },
