@@ -1,9 +1,9 @@
 .sidebar {
-  max-height: calc(100vh - (var(--ifm-navbar-height) + 2rem));
+  max-height: calc(160vh - (var(--ifm-navbar-height) + 4rem));
   overflow-y: auto;
   overflow-x: hidden;
   position: sticky;
-  top: calc(var(--ifm-navbar-height) + 2rem);
+  top: calc(var(--ifm-navbar-height) + 8rem);
 }
 
 .sidebarItemTitle {
@@ -13,11 +13,11 @@
 }
 
 .sidebarItemList {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .sidebarItem {
-  margin-top: 0.7rem;
+  margin-top: 0.8rem;
 }
 
 .sidebarItemLink {
@@ -76,5 +76,5 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 16px;
-  padding: 0;
+  padding: 16;
 }
