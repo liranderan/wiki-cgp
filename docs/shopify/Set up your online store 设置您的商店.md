@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 Before you stock your Shopify store with products, you need to enter some information about yourself and your store. You need to decide on some basic standards for your product listings and customer transactions. Also, you need to set up your domain to make sure that your customers can find your store online.
+在向 Shopify 商店进货产品之前，您需要输入一些有关您自己和商店的信息。您需要为产品列表和客户交易确定一些基本标准。此外，您还需要设置域以确保您的客户可以在线找到您的商店。
 
 Log in to your store
 登录您的商店
