@@ -1,6 +1,6 @@
 .resourceCard {
   background-color: var(--ifm-card-background-color);
-  border-radius: 24px;
+  border-radius: 16px;
   border: 1px solid rgb(204 204 204 / 50%);
   height: 100%;
   display: flex;
@@ -10,20 +10,20 @@
 }
 
 .resourceCard:hover {
-  box-shadow: 0 8px 24px -8px rgb(0 0 0 / 20%);
-  transform: translateY(-5px);
+  box-shadow: 0 8px 8px -8px rgb(0 0 0 / 20%);
+  transform: translateY(-8px);
 }
 
 html[data-theme='dark'] .resourceCard:hover {
-  box-shadow: 0 10px 20px -10px rgb(255 255 255 / 20%);
-  transform: translateY(-5px);
+  box-shadow: 0 8px 8px -8px rgb(255 255 255 / 20%);
+  transform: translateY(-8px);
 }
 
 .resourceCardImage {
   align-self: center;
-  width: 64px;
-  height: 64px;
-  min-width: 64px;
+  width: 24px;
+  height: 24px;
+  min-width: 24px;
   object-fit: contain;
 }
 
