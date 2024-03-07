@@ -26,6 +26,14 @@ const sidebars = {
       type: 'category',
       label: 'Tutorial',
       items: ['link/create-a-document'],
+   
+   apiSidebar: [
+     'intro',
+    'hello',
+    {
+      type: 'category',
+      label: 'Tutorial',
+      items: ['link/create-a-document'],
     },  
   ],
    */
