@@ -1,5 +1,5 @@
 .sidebar {
-  max-height: calc(160vh - (var(--ifm-navbar-height) + 4rem));
+  max-height: calc(80vh - (var(--ifm-navbar-height) + 4rem));
   overflow-y: auto;
   overflow-x: hidden;
   position: sticky;
@@ -13,7 +13,7 @@
 }
 
 .sidebarItemList {
-  font-size: 1rem;
+  font-size: 4rem;
 }
 
 .sidebarItem {
@@ -76,5 +76,5 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 16px;
-  padding: 16;
+  padding: 8;
 }
