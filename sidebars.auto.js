@@ -40,6 +40,14 @@ module.exports = {
     },
     {
         "type": "category",
+        "label": "Shopify",
+        "items": [
+            "Shopify/101",
+            "Shopify/102"
+        ]
+    },
+    {
+        "type": "category",
         "label": "tutorial-extras",
         "items": [
             {
