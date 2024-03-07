@@ -1,6 +1,6 @@
 .resourceCard {
   background-color: var(--ifm-card-background-color);
-  border-radius: 8px;
+  border-radius: 24px;
   border: 1px solid rgb(204 204 204 / 50%);
   height: 100%;
   display: flex;
@@ -10,7 +10,7 @@
 }
 
 .resourceCard:hover {
-  box-shadow: 0 10px 20px -10px rgb(0 0 0 / 20%);
+  box-shadow: 0 8px 24px -8px rgb(0 0 0 / 20%);
   transform: translateY(-5px);
 }
 
