@@ -21,6 +21,7 @@ function Feature({title, Svg, description}: FeatureItem) {
   );
 }
 
+
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
