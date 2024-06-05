@@ -96,13 +96,6 @@ export const resourceData: ResourceCategory[] = [
         href: 'https://icon-sets.iconify.design/',
         tags: ['图标'],
       },
-      {
-        name: 'Typing SVG',
-        desc: '一个动态生成的可自定义 SVG 打字效果',
-        logo: '/img/resource/typing-svg.png',
-        href: 'https://readme-typing-svg.herokuapp.com/demo/',
-        tags: ['字体'],
-      },
     ],
   },
 ]
