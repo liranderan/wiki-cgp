@@ -13,4 +13,5 @@ sidebar_position: 1
 ##### The Bay https://www.thebay.com/  
 ##### Sportchek https://www.sportchek.ca/  
 ##### IKEA https://www.ikea.com/ca/en/  
+##### IKEA https://www.ikea.com/ca/en/  
 
