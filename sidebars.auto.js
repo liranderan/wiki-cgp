@@ -20,7 +20,7 @@ module.exports = {
     "intro",
     {
         "type": "category",
-        "label": "常用网站导航",
+        "label": "link",
         "items": [
             "link/BC",
             "link/Bank",
