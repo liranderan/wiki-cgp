@@ -32,18 +32,18 @@ module.exports = {
     },
     {
         "type": "category",
-        "label": "professionals",
+        "label": "Professionals",
         "items": [
             "professionals/Contractors",
-            "professionals/media"
+            "professionals/Media"
         ]
     },
     {
         "type": "category",
         "label": "Shopify",
         "items": [
-            "Shopify/101",
-            "Shopify/102"
+            "Shopify/Before you start",
+            "Shopify/Set up your online store"
         ]
     },
     {
@@ -54,6 +54,16 @@ module.exports = {
                 "type": "category",
                 "label": "img",
                 "items": []
+            }
+        ]
+    },
+    {
+        "type": "category",
+        "label": "Local",
+        "items": [
+                "社区",
+                "大多地区"
+        ]
             }
         ]
     }
